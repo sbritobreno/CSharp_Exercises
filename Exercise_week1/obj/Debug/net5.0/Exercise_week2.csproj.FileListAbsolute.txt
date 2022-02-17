@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\bin\Debug\net5.0\Exercise_week2.exe
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\bin\Debug\net5.0\Exercise_week2.deps.json
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\bin\Debug\net5.0\Exercise_week2.runtimeconfig.json
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\bin\Debug\net5.0\Exercise_week2.runtimeconfig.dev.json
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\bin\Debug\net5.0\Exercise_week2.dll
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\bin\Debug\net5.0\ref\Exercise_week2.dll
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\bin\Debug\net5.0\Exercise_week2.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\obj\Debug\net5.0\Exercise_week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\obj\Debug\net5.0\Exercise_week2.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\obj\Debug\net5.0\Exercise_week2.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\obj\Debug\net5.0\Exercise_week2.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\obj\Debug\net5.0\Exercise_week2.dll
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\obj\Debug\net5.0\ref\Exercise_week2.dll
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\obj\Debug\net5.0\Exercise_week2.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\IT\VS-C#\college\Exercise_week2\obj\Debug\net5.0\Exercise_week2.genruntimeconfig.cache
