@@ -1,0 +1,16 @@
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\Exercise_week5.csproj.AssemblyReference.cache
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\Exercise_week5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\Exercise_week5.AssemblyInfoInputs.cache
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\Exercise_week5.AssemblyInfo.cs
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\Exercise_week5.csproj.CoreCompileInputs.cache
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\bin\Debug\net5.0\Exercise_week5.exe
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\bin\Debug\net5.0\Exercise_week5.deps.json
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\bin\Debug\net5.0\Exercise_week5.runtimeconfig.json
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\bin\Debug\net5.0\Exercise_week5.runtimeconfig.dev.json
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\bin\Debug\net5.0\Exercise_week5.dll
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\bin\Debug\net5.0\ref\Exercise_week5.dll
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\bin\Debug\net5.0\Exercise_week5.pdb
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\Exercise_week5.dll
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\ref\Exercise_week5.dll
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\Exercise_week5.pdb
+C:\Users\breno\Desktop\IT\VS-C#\college\Exercise_week5\obj\Debug\net5.0\Exercise_week5.genruntimeconfig.cache
